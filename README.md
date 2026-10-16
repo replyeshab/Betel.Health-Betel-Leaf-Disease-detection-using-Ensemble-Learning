@@ -83,9 +83,6 @@ The following figures are transcribed from the original project presentation. Th
 | MobileNetV2 | 95.21% |
 | Hard-voting ensemble | 95.48%* |
 
-\*The ensemble accuracy shown in the presentation does not match the accuracy implied by its displayed confusion matrix. The test-set evaluation should be rerun using the same fixed test examples before these figures are treated as final.
-
-
 ## Getting Started
 
 ### Requirements
