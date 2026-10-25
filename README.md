@@ -81,15 +81,15 @@ The dataset is published under a [CC BY 4.0 license](https://creativecommons.org
 The following figures are transcribed from the original project presentation. They are **reported results, not independently revalidated results from this repository**.
 
 | Model | Reported test accuracy |
-|---|---:|
+|----|----:|
 | EfficientNetV2-S | 64.69% |
 ![Screenshots](assets/MajorProjectPresentation.jpg)
 | NASNetMobile | 96.94% |
-![Screenshots](assets/Major Project Presentation(1).jpg)
+![Screenshots](assets/MajorProjectPresentation(1).jpg)
 | MobileNetV2 | 95.21% |
-![Screenshots](assets/Major Project Presentation(2).jpg)
+![Screenshots](assets/MajorProjectPresentation(2).jpg)
 | Hard-voting ensemble | 95.48%* |
-![Screenshots](assets/dashboard.png)
+![Screenshots](assets/MajorProjectPresentation(3).jpg)
 
 ## Getting Started
 
