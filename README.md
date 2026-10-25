@@ -142,8 +142,6 @@ Model weights and dataset files are intentionally excluded from version control.
 
 [Open the project presentation in Canva](https://canva.link/u2yt6t20hjkok2g)
 
-A recorded demo can be added here after exporting the video from Canva. A useful demo should show an input image, the individual model predictions, the ensemble decision, and the verified evaluation results.
-
 ## Limitations
 
 - The existing model interface uses three output classes, while the linked Mendeley dataset describes four.
