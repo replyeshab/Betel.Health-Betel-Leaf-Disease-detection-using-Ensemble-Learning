@@ -11,7 +11,7 @@ A computer vision project exploring deep learning and transfer learning for bete
 
 ## Demo
 
-![Project Demo](assets/demo.gif)
+![Project Demo](MajorProjectPresentation1-ezgif.com-optimize.gif)
 
 ## Overview
 
