@@ -89,8 +89,7 @@ The following figures are transcribed from the original project presentation. Th
 | MobileNetV2 
 ![Screenshots](assets/MajorProjectPresentation.jpg)| 95.21% |
 | Hard-voting ensemble 
-![Screenshots](assets/MajorProjectPresentation(3).jpg)
-| 95.48%* |
+![Screenshots](assets/MajorProjectPresentation(3).jpg)| 95.48%* |
 ## Getting Started
 
 ### Requirements
