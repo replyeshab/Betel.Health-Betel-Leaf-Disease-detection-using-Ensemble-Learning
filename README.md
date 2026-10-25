@@ -83,7 +83,7 @@ The following figures are transcribed from the original project presentation. Th
 | Model | Reported test accuracy |
 |---|---:|
 | EfficientNetV2-S | 64.69% |
-![Screenshots](assets/Major Project Presentation.jpg)
+![Screenshots](assets/MajorProjectPresentation.jpg)
 | NASNetMobile | 96.94% |
 ![Screenshots](assets/Major Project Presentation(1).jpg)
 | MobileNetV2 | 95.21% |
