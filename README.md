@@ -82,15 +82,15 @@ The following figures are transcribed from the original project presentation. Th
 
 | Model | Reported test accuracy |
 |----|----:|
-| EfficientNetV2-S | 64.69% |
+| EfficientNetV2-S 
+![Screenshots](assets/MajorProjectPresentation(3).jpg)| 64.69% |
+| NASNetMobile
+![Screenshots](assets/MajorProjectPresentation(1).jpg)| 96.94% |
+| MobileNetV2 
+![Screenshots](assets/MajorProjectPresentation(2).jpg)| 95.21% |
+| Hard-voting ensemble 
 ![Screenshots](assets/MajorProjectPresentation.jpg)
-| NASNetMobile | 96.94% |
-![Screenshots](assets/MajorProjectPresentation(1).jpg)
-| MobileNetV2 | 95.21% |
-![Screenshots](assets/MajorProjectPresentation(2).jpg)
-| Hard-voting ensemble | 95.48%* |
-![Screenshots](assets/MajorProjectPresentation(3).jpg)
-
+| 95.48%* |
 ## Getting Started
 
 ### Requirements
