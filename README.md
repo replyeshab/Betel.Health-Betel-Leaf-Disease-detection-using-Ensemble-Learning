@@ -9,6 +9,10 @@ A computer vision project exploring deep learning and transfer learning for bete
 
 **Project presentation:** [View the Canva presentation](https://canva.link/u2yt6t20hjkok2g)
 
+## Demo
+
+![Project Demo](assets/demo.gif)
+
 ## Overview
 
 Plant diseases can affect crop quality and agricultural productivity. This project explores the use of image classification to identify visible conditions in betel leaves using deep learning.
